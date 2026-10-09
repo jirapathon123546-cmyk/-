@@ -1,0 +1,6 @@
+{
+  "name": "Motor Adventure AI",
+  "description": "เว็บแอปพลิเคชันส่งเสริมและประเมินทักษะกลไกสำหรับเด็กที่มีความต้องการจำเป็นพิเศษ ศูนย์การศึกษาพิเศษ ประจำจังหวัดสตูล พร้อมระบบตรวจจับท่าทาง Real-Time Pose Estimation",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
